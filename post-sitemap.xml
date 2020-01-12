@@ -1,14 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>http://www.huweihuang.com</loc>
+        <loc>http://www.google.com</loc>
         <changefreq>daily</changefreq>
         <priority>1</priority>
     </url>
 
     <url>
-        <loc>http://www.huweihuang.com/article/hexo-theme-huweihuang/</loc>
-        <lastmod>2019-06-23T02:56:23.013Z</lastmod>
+        <loc>http://www.google.com/article/P2P%E5%9D%97%E4%BA%A4%E6%8D%A2%E5%8D%8F%E8%AE%AE/</loc>
+        <lastmod>2020-01-12T14:25:08.501Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://www.google.com/article/hexo-theme-huweihuang/</loc>
+        <lastmod>2020-01-10T09:19:40.820Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
